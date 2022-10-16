@@ -165,11 +165,10 @@ section .title::after{
     filter: brightness(90%);
 }
 
-
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/pexels-maurício-mascaro-1154189.jpg") no-repeat center;
+    background: url("images/backgroundimage123.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
