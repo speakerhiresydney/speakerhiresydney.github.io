@@ -185,6 +185,10 @@ section .title::after{
 .home .home-content .text-1{
     font-size: 27px;
 }
+.text-12{
+    font-size: 59px;
+    text-align: center;
+}
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
@@ -216,6 +220,18 @@ section .title::after{
 }
 
 /* about section styling */
+.ordered-list-indent{
+    margin: 0 0 10px 20px;
+}
+
+.about-terms-of-service-in-depth .title::after{
+    content: "In-Depth";
+}
+
+.about-terms-of-service-simple .title::after{
+    content: "Simple";
+}
+
 .about .title::after{
     content: "Who We Are";
 }
